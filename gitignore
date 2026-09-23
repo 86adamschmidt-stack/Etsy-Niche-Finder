@@ -1,0 +1,11 @@
+# Local API cache and results
+.etsy_cache/
+niche_results.csv
+*.csv
+
+# Credentials
+.env
+
+# Python
+__pycache__/
+*.pyc
